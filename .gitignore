@@ -16,4 +16,8 @@
 !/log/.keep
 /tmp
 /vendor/bundle
+
 /.idea
+
+# Ignore uploades test images.
+/public/uploads
